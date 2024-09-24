@@ -1,4 +1,4 @@
-Alo, my name is **Ekaterina (Katya) Koulakova** and I am currently a Research Associate at the NYU Neuroscience Institute. 
+Hello, my name is **Ekaterina (Katya) Koulakova** and I am currently a Research Associate at the NYU Neuroscience Institute. 
 
 #### Educational Background
 
