@@ -1,6 +1,6 @@
 Hello, my name is **Katya** and I am currently a Research Associate at the NYU Neuroscience Institute. 
 
-I am primarily **driven by beautiful design**. 
+I am **driven by beautiful design**. 
 
 As such, I am interested in exploring how the architecture of the brain influences our perception of reality. Neural systems don't merely observe the world; they actively interpret it, dynamically reconfiguring stimuli based on past experiences and structural biases to construct meaningful representations. Understanding how these evolving systems and their biological constraints implement statistical processes to evoke the world with which we interface serves as my intellectual pursuit.
 
